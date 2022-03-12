@@ -8,3 +8,5 @@
 </li>
 <li class="nav-item"><a class="nav-link active" href="...">{{ request.user.username }}</a></li>
 {% endif %}
+
+Above code must be used to hideout login button after logged in & it replaced with Log Out Button.
